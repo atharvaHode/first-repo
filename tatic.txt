@@ -1,0 +1,3 @@
+vim is a new editor
+hi vim can be hard for the beginner it hard to
+levrage it in time you learn to be good ai it.
